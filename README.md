@@ -10,7 +10,7 @@ https://alenagennadevna.github.io/roses-chocolate-landing/
 
 ## 📸 Preview
 
-![Project Preview](./images/preview.png)
+![Project Preview](./image/preview.png)
 
 ## Features
 
