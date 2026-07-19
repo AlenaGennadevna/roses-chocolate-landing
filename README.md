@@ -8,7 +8,9 @@ https://alenagennadevna.github.io/roses-chocolate-landing/
 
 ## Preview
 
-> Screenshot coming soon.
+## 📸 Preview
+
+![Project Preview](./images/preview.png)
 
 ## Features
 
