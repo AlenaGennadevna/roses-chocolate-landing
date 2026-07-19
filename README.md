@@ -14,7 +14,7 @@ Responsive landing page for a flower and chocolate gift shop built with HTML, CS
 
 ## Features
 
-- Responsive layout
+- Responsive layout for desktop and mobile devices
 - Interactive image slider
 - Product categories
 - Burger navigation menu
