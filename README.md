@@ -4,7 +4,7 @@ Responsive landing page for a flower and chocolate gift shop built with HTML, CS
 
 ## Live Demo
 
-https://alenagennadevna.github.io/roses-chocolate-landing/
+[View Live Demo](https://alenagennadevna.github.io/roses-chocolate-landing/)
 
 ## Preview
 
