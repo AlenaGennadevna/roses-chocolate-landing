@@ -8,8 +8,6 @@ Responsive landing page for a flower and chocolate gift shop built with HTML, CS
 
 ## Preview
 
-## Preview
-
 ![Project Preview](./image/preview.png)
 
 ## Features
